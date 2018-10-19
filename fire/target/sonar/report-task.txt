@@ -1,0 +1,5 @@
+projectKey=com.fedex.fire:fire
+serverUrl=http://localhost:9090
+dashboardUrl=http://localhost:9090/dashboard/index/com.fedex.fire:fire
+ceTaskId=AWaL0mykXP1PqNcIT_Fs
+ceTaskUrl=http://localhost:9090/api/ce/task?id=AWaL0mykXP1PqNcIT_Fs

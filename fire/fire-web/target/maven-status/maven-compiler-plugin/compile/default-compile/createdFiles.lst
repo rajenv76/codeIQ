@@ -1,0 +1,4 @@
+war\rest\JaxRsActivator.class
+war\rest\MemberResourceRESTService.class
+war\controller\MemberController.class
+war\util\WebResources.class
